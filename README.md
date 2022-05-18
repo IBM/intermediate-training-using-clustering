@@ -68,7 +68,7 @@ For example:
 
 ## Reference
 Eyal Shnarch, Ariel Gera, Alon Halfon, Lena Dankin, Leshem Choshen, Ranit Aharonov and Noam Slonim (2022). 
-[Cluster & Tune: Boost Cold Start Performance in Text Classification](ADD-A-LINK-HERE!!!). ACL 2022
+[Cluster & Tune: Boost Cold Start Performance in Text Classification](https://aclanthology.org/2022.acl-long.526/). ACL 2022
 
 Please cite: 
 ```
@@ -81,13 +81,13 @@ Please cite:
       Choshen, Leshem  and
       Aharonov, Ranit  and
       Slonim, Noam",
-    booktitle = "Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (ACL)",
+    booktitle = "Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
     month = may,
     year = "2022",
-    address = "Online",
+    address = "Dublin, Ireland",
     publisher = "Association for Computational Linguistics",
-    url = "TBD",
-    pages = "TBD",
+    url = "https://aclanthology.org/2022.acl-long.526",
+    pages = "7639--7653",
 }
 ```
 
